@@ -3,5 +3,6 @@
 .settings/
 __pycache__/
 *.py[cod]
+/*.egg-info
 /config.ini
 /data

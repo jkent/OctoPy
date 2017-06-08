@@ -11,6 +11,7 @@ class Core(object):
         self.repl.start()
     
     def run(self):
+        time.sleep(2)
         while self.repl.running:
-            time.sleep(2)
             self.repl.print('test')
+            time.sleep(2)

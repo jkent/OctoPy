@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # vim: set ts=4 et
 
-from .core import Core
+from octopy.core import Core
 
 def main():    
     print('   ____       __        ____       ')
